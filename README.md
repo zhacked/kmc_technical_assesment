@@ -274,3 +274,11 @@ chmod 755 database/
 6. Knowledge base integration
 7. Multi-language support
 8. Mobile app
+
+## Test unit 
+<img width="944" height="532" alt="image" src="https://github.com/user-attachments/assets/78c461c5-0ddf-4f2f-bb01-f5ea0c92d03f" />
+
+##Dashboard / UI
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/3a5b7d14-5ac9-48be-a1e5-2e8e6a4e85c7" />
+
+
